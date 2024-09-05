@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "validator": "^13.12.0",
+    "validator-js": "^0.2.1"
+  }
+}
